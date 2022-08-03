@@ -1,0 +1,1 @@
+if temp is open > go setup.exe
